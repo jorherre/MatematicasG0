@@ -1,9 +1,9 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Web del curso de Matemáticas Grupo 0 UCM, Fac. Económicas y Empresariales"
+author: "Mercedes Vázquez Furelos, María Eugenia Mera Rivas, Jorge Herrera de la Cruz"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+
 
